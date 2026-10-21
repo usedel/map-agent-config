@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "2026.10.1",
+  "channel": "stable",
+  "minAppVersion": "0.1.0",
+  "fieldMap": {
+    "resultsIndex": 64, "name": 11, "address": [39, 18], "phone": 178,
+    "website": 7, "types": 76, "coords": 9, "placeId": [78, 10],
+    "rating": [4, 7], "reviews": [4, 8]
+  }
+}
